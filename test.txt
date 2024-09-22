@@ -1,8 +1,4 @@
-操作系统:Windows7,Windows10,Ubuntu
-浏览器:IE,FireFox,Safari
-代理服务器:Squid,CCProxy,Nginx
-代理服务器:Squid,CCProxy,Nginx
 
 
 
-
+修改了
